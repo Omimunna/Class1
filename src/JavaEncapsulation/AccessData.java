@@ -11,6 +11,7 @@ public class AccessData {
 		System.out.println(e.getFirstName());
 		System.out.println(e.getLastName());
 		e.getMySSN();
+		System.out.println("fatima added new update");
 
 	}
 }
